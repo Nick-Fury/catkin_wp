@@ -1,0 +1,8 @@
+prefix=/home/lx/catkin_ws/install
+
+Name: serial
+Description: Description of serial
+Version: 0.0.0
+Cflags: -I/home/lx/catkin_ws/install/include
+Libs: -L/home/lx/catkin_ws/install/lib 
+Requires: 

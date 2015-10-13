@@ -1,0 +1,9 @@
+FILE(REMOVE_RECURSE
+  "CMakeFiles/serial_generate_messages_cpp"
+  "/home/lx/catkin_ws/devel/include/serial/Serial.h"
+)
+
+# Per-language clean rules from dependency scanning.
+FOREACH(lang)
+  INCLUDE(CMakeFiles/serial_generate_messages_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)
